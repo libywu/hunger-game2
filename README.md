@@ -1,2 +1,2 @@
 # hunger-game2
-gmae diaplay
+game diaplay
